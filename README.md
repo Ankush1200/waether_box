@@ -1,13 +1,12 @@
 # weather_box
 
-<h4>1. How to run this project.</h4><br>
-   <h4>Step 1: Clone this github repo by executing command given below(before make sure git should be installed in your machine)-</h4><br>
+   <h4>1. How to run this project.</h4><br>
+   <h4>Step 1: Clone this github repo by executing command given below(before make sure git should be installed in your machine)-</h4>
            > git clone https://github.com/Ankush1200/waether_box.git
-   <h4>Step 2: open the cloned folder in vs code studio(or in your favorite code editor) and selected the device, any andriod ammulator or select chrome browser.</h4><br>
-   <h4>Step 3: Execute command(make sure flutter should be installed in your machine)</h4><br>
+   <h4>Step 2: open the cloned folder in vs code studio(or in your favorite code editor) and selected the device, any andriod ammulator or select chrome browser.</h4>
+   <h4>Step 3: Execute command(make sure flutter should be installed in your machine)</h4>
            > flutter run
-   <h4>Step 4: Exit.</h4><br>
-   <h4>Fine My Resume Here: https://drive.google.com/file/d/1weWL7wAhiXtl91dlCrDym_LEQXUH1L5C/view</h4><br>
+   <h4>Step 4: Exit.</h4>
    <br>
    <h3>Weather App Description</h3>
    <h4>Overview</h4>
@@ -20,7 +19,7 @@
             <strong>Temperature Display:</strong>
             <ul>
                 <li>Shows the current temperature in degrees Celsius.</li>
-                <li>Provides daily and weekly temperature trends for better planning.</li>
+                <li>Provides recents datewise temperature trends for better planning.</li>
             </ul>
         </li>
         <li>
