@@ -1,6 +1,6 @@
 # weather_box
 
-   <h4>1. How to run this project.</h4><br>
+   <h4>1. How to run this project.</h4>
    <h4>Step 1: Clone this github repo by executing command given below(before make sure git should be installed in your machine)-</h4>
            > git clone https://github.com/Ankush1200/waether_box.git
    <h4>Step 2: open the cloned folder in vs code studio(or in your favorite code editor) and selected the device, any andriod ammulator or select chrome browser.</h4>
